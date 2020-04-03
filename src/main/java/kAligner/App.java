@@ -147,4 +147,8 @@ public final class App {
             return;
         }           
     }
+
+    public static void buildIndex(){
+        
+    }
 } 
